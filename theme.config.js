@@ -1,7 +1,7 @@
 export default {
   github: 'https://github.com/uilibrary/bazar-documentation',
   docsRepositoryBase: 'https://github.com/uilibrary/bazar-documentation',
-  titleSuffix: ' – Bazar React Ecommerce Template',
+  titleSuffix: ' – Resettle Help Center',
   logo: (
     <>
       <span
@@ -11,7 +11,7 @@ export default {
         <img src="/favicon.ico" width="100%" alt="Bazar" />
       </span>
       <span className="text-primary font-normal hidden md:inline">
-        Bazar Documentation
+        Resettle Help Center
       </span>
     </>
   ),
@@ -23,11 +23,11 @@ export default {
       <meta httpEquiv="Content-Language" content="en" />
       <meta
         name="description"
-        content="Documentation of Bazar React Ecommerce Template"
+        content="Documentation of Resettle"
       />
       <meta
         name="og:description"
-        content="Documentation of Bazar React Ecommerce Template"
+        content="Documentation of Resettle"
       />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://bazar-react.vercel.app" />
@@ -38,7 +38,7 @@ export default {
       <meta name="twitter:url" content="https://bazar-react.vercel.app" />
       <meta
         name="og:title"
-        content="Documentation of Bazar React Ecommerce Template"
+        content="Documentation of Resettle"
       />
       <meta name="og:image" content="https://bazar-react.vercel.app" />
 
@@ -46,7 +46,7 @@ export default {
       <link rel="icon" type="image/png" sizes="96x96" href="/favicon.ico" />
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico" />
       <meta name="msapplication-TileImage" content="/favicon.ico" />
-      <title>Bazar React Ecommerce Template Documentation</title>
+      <title>Resettle Help Center</title>
     </>
   ),
   search: true,

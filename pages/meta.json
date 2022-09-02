@@ -1,9 +1,9 @@
 {
-  "index": "Quick Start",
-  "folder-structure": "Folder Structure",
-  "layouts": "Layouts",
-  "components": "Components",
-  "theme": "Theme",
+  "index": "Resettle features",
+  "folder-structure": "Manage your account",
+  "layouts": "Staying safe",
+  "components": "Privacy, security and reporting",
+  "theme": "Terms and policies",
   "navigations": "Navigation",
   "settings": "Settings",
   "mockserver": "Api and Mock Server"
